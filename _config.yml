@@ -32,7 +32,5 @@ exclude:
 gems:
   - kramdown
   - jekyll
-  # - github-pages
-  # - searchyll
-
-theme: jekyll-theme-cayman
+  - github-pages
+  - searchyll
