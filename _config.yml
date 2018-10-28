@@ -34,3 +34,5 @@ gems:
   - jekyll
   # - github-pages
   # - searchyll
+
+theme: jekyll-theme-cayman
